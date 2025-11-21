@@ -8,16 +8,13 @@ This repo contains your full **Post-Course Assessment** implementation:
 - **Part 2 – Task 5: Research Agent (30 pts)**
 - **Part 2 – Task 6: State-Aware UI Agent (30 pts)**
   - CLI version
-  - BONUS: Web UI with FastAPI
+  - Web UI with FastAPI
 
 Everything is wired to use:
 
 - **Pydantic-AI** for agents
 - **Gemini (via Generative Language API)** as the LLM
 - **Pydantic Logfire** for observability
-
-> ✅ You already ran `logfire auth` and `logfire projects use agentic-ai`,  
-> so Logfire will pick up configuration from the local `.logfire` folder.
 
 ---
 
