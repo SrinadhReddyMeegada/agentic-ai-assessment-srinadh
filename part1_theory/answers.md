@@ -1,9 +1,9 @@
-# Part 1 — Conceptual Understanding  
+
 _Agentic AI — Post-Course Assessment Answers_
 
 ---
 
-## 1. Agent Architecture (10 points)
+## 1. Agent Architecture
 
 ### **1.1 Functional difference between an Agent and a Chatbot**
 
@@ -90,7 +90,7 @@ So the agent can reason:
 
 ---
 
-## 2. LLM Mechanics (10 points)
+## 2. LLM Mechanics
 
 ### **2.1 How an LLM processes a request (developer perspective)**
 
@@ -147,7 +147,7 @@ Modern agent frameworks rely on:
 
 ---
 
-## 3. Retrieval-Augmented Generation (RAGs) (10 points)
+## 3. Retrieval-Augmented Generation (RAGs)
 
 ### **3.1 Standard RAG vs Hierarchical RAG**
 
