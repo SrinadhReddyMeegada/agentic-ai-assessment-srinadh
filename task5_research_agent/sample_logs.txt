@@ -1,0 +1,78 @@
+# sample_logs.txt
+# Sample execution log for the research agent.
+# New runs will be appended to this file.
+
+==============================
+Run at:        2025-11-21T18:30:00.000000
+Completed at:  2025-11-21T18:30:07.500000
+Question:      How will AI agents affect e-commerce personalization in the next 3 years?
+Snippets used: 5
+
+Short answer:
+AI agents will shift e-commerce personalization from static rules and segments to
+continuous, goal-driven workflows that observe user behaviour, query multiple data
+sources, and adapt the entire journey in real time. Over the next three years the
+biggest impact will be in on-site recommendations, post-purchase support, and
+operations such as pricing and inventory – with value limited mainly by data
+quality and governance, not model capability.
+
+Key points:
+- Agents can coordinate multiple tools (catalog, pricing, inventory, marketing) to personalise across the whole journey, not just the product grid.
+- On-site experiences will become more conversational and stateful, remembering user goals across sessions.
+- Customer support agents will blend help-desk data with order history to resolve issues and recommend next actions in one flow.
+- Operational agents will use demand forecasts and constraints to suggest price or promotion changes automatically.
+- Governance, observability and human review will be critical to avoid biased, weird, or unsafe personalization behaviour.
+
+Sources:
+- AI Agents: From Chatbots to Autonomous Workflows (example.com/ai-agents-overview)
+- Domain Report: Trends in AI-driven Research Automation (example.com/research-automation-report)
+- Best Practices for Using RAG with Gemini (example.com/rag-gemini-best-practices)
+- Observability for AI Agents with Logfire (example.com/logfire-ai-observability)
+- Limitations of LLM-based Research (example.com/llm-research-limitations)
+==============================
+Run at:        2025-11-21T18:12:32.440237
+Completed at:  2025-11-21T18:12:50.001600
+Question:      What is the future of AI agents in healthcare?
+Snippets used: 5
+
+Short answer:
+The future of AI agents, generally characterized by their ability to combine large language model (LLM) reasoning with tools, memory, and state to perform multi-step tasks, holds significant potential across various sectors. While specific information on AI agents in healthcare was not found in the provided snippets, it can be inferred that these agents could automate complex processes, assist in research by summarizing academic papers and synthesizing reports, and aid in planning within the healthcare domain. However, their deployment would necessitate robust measures like retrieval-augmented generation (RAG), strong logging, evaluation, and guardrails to mitigate risks such as hallucinations and reliance on outdated data, which are crucial considerations in a sensitive field like healthcare.
+
+Key points:
+- AI agents are designed to perform multi-step tasks by integrating LLM reasoning with tools, memory, and state.
+- General applications of AI agents include automating competitor analysis, summarizing academic papers, and synthesizing reports.
+- The effective and safe development of AI agents requires combining retrieval-augmented generation (RAG) with strong logging, evaluation, and guardrails.
+- Observability tools, like Pydantic Logfire, are important for tracing agent runs, tool calls, and latency, allowing for safe iteration in production.
+- Key limitations of LLM-based agents include the potential for hallucinations, reliance on outdated training data, and the critical need to cross-check generated insights against primary sources.
+- Applying these general AI agent capabilities to healthcare would likely involve automation of administrative tasks, research assistance, and support for complex decision-making, while navigating strict requirements for accuracy and data privacy.
+
+Sources:
+- AI Agents: From Chatbots to Autonomous Workflows
+- Domain Report: Trends in AI-driven Research Automation
+- Best Practices for Using RAG with Gemini
+- Observability for AI Agents with Logfire
+- Limitations of LLM-based Research
+
+==============================
+Run at:        2025-11-21T18:31:17.915612
+Completed at:  2025-11-21T18:31:36.462140
+Question:      How will AI agents change supply chain optimization in the next 5 years?
+Snippets used: 5
+
+Short answer:
+In the next five years, AI agents are anticipated to significantly transform supply chain optimization by leveraging their advanced reasoning, planning, and multi-step task execution capabilities. They are expected to move beyond current AI applications to enable more autonomous, data-driven decision-making, real-time adaptation, and predictive insights across the entire supply chain, from demand forecasting and inventory management to logistics and risk mitigation. This shift will likely lead to increased efficiency, resilience, and responsiveness in global supply networks.
+
+Key points:
+- AI agents will enable more autonomous decision-making in areas like inventory ordering and dynamic routing by combining LLM reasoning with access to real-time data and operational tools.
+- They are expected to enhance predictive analytics for demand forecasting and risk assessment, allowing supply chains to proactively adapt to disruptions and market changes.
+- AI agents will facilitate the automation of complex, multi-step tasks within the supply chain, such as optimizing transportation networks and managing supplier relationships.
+- The integration of AI agents could lead to more adaptive and resilient supply chains capable of self-correcting and optimizing in dynamic environments.
+- Advanced observability and evaluation tools, along with guardrails, will be crucial for the safe and effective deployment of AI agents in critical supply chain operations.
+
+Sources:
+- AI Agents: From Chatbots to Autonomous Workflows (example.com/ai-agents-overview)
+- Domain Report: Trends in AI-driven Research Automation (example.com/research-automation-report)
+- Best Practices for Using RAG with Gemini (example.com/rag-gemini-best-practices)
+- Observability for AI Agents with Logfire (example.com/logfire-ai-observability)
+- Limitations of LLM-based Research (example.com/llm-research-limitations)
+
