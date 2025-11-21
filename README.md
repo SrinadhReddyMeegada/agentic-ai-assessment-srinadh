@@ -4,9 +4,9 @@
 
 This repo contains your full **Post-Course Assessment** implementation:
 
-- **Part 1 – Conceptual Understanding (40 pts)**
-- **Part 2 – Task 5: Research Agent (30 pts)**
-- **Part 2 – Task 6: State-Aware UI Agent (30 pts)**
+- **Part 1 – Conceptual Understanding**
+- **Part 2 – Task 5: Research Agent**
+- **Part 2 – Task 6: State-Aware UI Agent**
   - CLI version
   - Web UI with FastAPI
 
